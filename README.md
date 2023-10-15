@@ -10,5 +10,5 @@ Oyunu kazanmak için tüm mayınları bulup işaretlemelisiniz.
 Oyunu kaybetmek için bir mayına basmalısınız.
 
 Lisans Hakları
-Bu proje Batuhan Kayahan tarafından lisanslanmıştır.
+Bu proje Batuhan Kayahan tarafından lisanslanmıştır..
 
